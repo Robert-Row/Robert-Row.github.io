@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Using Trello for Productivity and Management
+title: Trello for Management
 ---
 
 Trello
