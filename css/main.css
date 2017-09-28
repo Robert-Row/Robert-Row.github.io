@@ -47,6 +47,7 @@ blockquote p:first-child {
   margin-top: 0;
 }
 hr.small {
+  display: none;
   max-width: 100px;
   margin: 15px auto;
   border-width: 4px;
