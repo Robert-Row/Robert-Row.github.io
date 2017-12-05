@@ -8,10 +8,8 @@ subtitle: Building a mental model for social
 JOHN GALL, SYSTEMS THEORIST
 
 
-I want to extend the previous introductory post by incorporating the components of our social network mental model. This will contain the roadmap for defining strategy.
-
 # A Social Network
-	* An interconnected system of nodes & edges representing people & relationships. All characteristics and data associated with the network are contained within the nodes and edges (people & relationships) of the network.
+  * An interconnected system of nodes & edges representing people & relationships. All characteristics and data associated with the network are contained within the nodes and edges (people & relationships) of the network.
 
 
 ![Social Network]({{ "/img/social_network_image.jpg" | absolute_url }})
